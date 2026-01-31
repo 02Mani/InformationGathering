@@ -88,8 +88,8 @@ sudo traceroute -U www.flipkart.com
 sudo traceroute  www.flipkart.com
 ## output
 
+<img width="1920" height="1080" alt="111" src="https://github.com/user-attachments/assets/19b3d96e-3d2f-4275-8e6b-6dff3119147e" />
 
-<img width="1920" height="1080" alt="ICMP" src="https://github.com/user-attachments/assets/8f01d59e-f229-4ab6-9643-3d6382cfb4b7" />
 
 
 ## RESULT:
